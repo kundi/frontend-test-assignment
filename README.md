@@ -11,7 +11,7 @@ The data should be fetched asynchronously with minimal API calls, and a loading 
 - Ensure the application uses the latest Ember.js version for compatibility and features.
 
 ### 2. Data Model
-- Define a data model representing the items to be displayed in the table. The base model should be derived from the 
+- Define a data model representing the items to be displayed in the table. The base model should be derived from the `keywords-results.json` file
 - Include at least 5-7 fields, two of which should be dynamic and fetched based on the `competitors-data.json`
 
 ### 3. API Integration
